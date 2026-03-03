@@ -17,7 +17,7 @@ données avec l'annotation "@Version" et traiter l'exception 'OptimisticLockExce
 
 
 
-=====## Résultats attendus (captures d'écran)=====
+=====## Résultats attendus =====
 
 ### 1. Initialisation des données
 
